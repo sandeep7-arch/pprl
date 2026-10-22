@@ -58,5 +58,5 @@ into the next match.
 https://github.com/user-attachments/assets/b7765057-52f2-4daf-9b12-49511edfb370 
 
 THIS IS JUST 900 games of self play from random weights , sure it is learning
-
+(and right one is the trained AI , left is just a dummy model to test our model)
 
