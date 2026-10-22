@@ -1,3 +1,7 @@
+
+
+
+
 This is mini - project to learn fundamentals of RL which is a fundamental
 concept for my main project 
 
@@ -50,5 +54,9 @@ marked terminal in replay: the trainer resets the ball and stores that
 next-rally state, so the DQN can bootstrap across rallies. Replay's `terminal`
 flag is true only after the match-ending point, which prevents bootstrapping
 into the next match.
+
+https://github.com/user-attachments/assets/b7765057-52f2-4daf-9b12-49511edfb370 
+
+THIS IS JUST 900 games of self play from random weights , sure it is learning
 
 
